@@ -1,0 +1,14 @@
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\bin\Debug\netcoreapp3.1\FCMExampleWithExpoApp.exe
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\obj\Debug\netcoreapp3.1\FCMExampleWithExpoApp.csprojAssemblyReference.cache
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\obj\Debug\netcoreapp3.1\FCMExampleWithExpoApp.AssemblyInfoInputs.cache
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\obj\Debug\netcoreapp3.1\FCMExampleWithExpoApp.AssemblyInfo.cs
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\bin\Debug\netcoreapp3.1\FCMExampleWithExpoApp.deps.json
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\bin\Debug\netcoreapp3.1\FCMExampleWithExpoApp.runtimeconfig.json
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\bin\Debug\netcoreapp3.1\FCMExampleWithExpoApp.runtimeconfig.dev.json
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\bin\Debug\netcoreapp3.1\FCMExampleWithExpoApp.dll
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\bin\Debug\netcoreapp3.1\FCMExampleWithExpoApp.pdb
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\bin\Debug\netcoreapp3.1\Expo.Server.SDK.dll
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\obj\Debug\netcoreapp3.1\FCMExampleWithExpoApp.csproj.CopyComplete
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\obj\Debug\netcoreapp3.1\FCMExampleWithExpoApp.dll
+C:\Users\Orbis\source\repos\FCMExampleWithExpoApp\FCMExampleWithExpoApp\obj\Debug\netcoreapp3.1\FCMExampleWithExpoApp.pdb
